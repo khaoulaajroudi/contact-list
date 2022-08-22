@@ -1,0 +1,6 @@
+export const GET_CONTACT = "GET CONTACT";
+export const GET_CONTACT_SUCCESS = "GET_CONTACT_SUCCESS";
+export const GET_CONTACT_FAIL = "GET_CONTACT_FAIL";
+
+export const ADD_CONTACT = "ADD CONTACT";
+export const DELETE_CONTACT = "DELETE CONTACT";
